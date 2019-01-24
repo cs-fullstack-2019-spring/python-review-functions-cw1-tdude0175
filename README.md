@@ -1,2 +1,1 @@
-# python-review-functions-cw
-Python Review: Functions Classwork
+# Python Review: Functions Classwork
