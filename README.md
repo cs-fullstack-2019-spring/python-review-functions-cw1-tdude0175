@@ -38,6 +38,7 @@ BONUS:
 
   ```
 
+Help on Dictionaries: https://www.tutorialspoint.com/python/python_dictionary.htm
 
 
 
