@@ -1,3 +1,6 @@
+# KEY: Excellent work! However, be careful not to over-complicate things unnecessarily
+# See notes in thePython file 
+
 # Python Review: Functions Classwork
 
 ### Problem 1:
